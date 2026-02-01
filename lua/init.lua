@@ -1,2 +1,4 @@
 require("classic/set")
-print("lua files on demand")
+require("classic/lazy")
+require("classic/remap")
+print("damn you bruh..")

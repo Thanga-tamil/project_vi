@@ -10,3 +10,4 @@ vim.cmd("set guicursor+=i-ci:block")
 
 vim.opt.clipboard = "unnamedplus"
 
+vim.g.mapleader= " "
