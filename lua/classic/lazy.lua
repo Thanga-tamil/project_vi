@@ -29,7 +29,14 @@ require("lazy").setup({
 			'nvim-telescope/telescope.nvim', tag = '0.1.8',
 			dependencies = { 'nvim-lua/plenary.nvim' }
 		},
-		{ "rose-pine/neovim", name = "rose-pine" }
+
+		{ "rose-pine/neovim", name = "rose-pine" },
+
+		{ "mbbill/undotree", lazy = false, },
+
+		{'neovim/nvim-lspconfig', name = 'lsp',},
+
+
 	},
 
 	-- automatically check for plugin updates
