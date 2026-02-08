@@ -44,7 +44,7 @@ return {
   -- UI
   cursor     = "#f5a97f",
   visual     = "#2e3c55",
-  search     = "#f5c2e7",
+  search     = "#23d7dd",
   statusline = "#1e293b",
   menu_bg    = "#1a2535",
   menu_sel   = "#3b4252",
@@ -57,3 +57,5 @@ return {
   diag_info  = "#89dceb",
   diag_hint  = "#b4befe",
 }
+
+
