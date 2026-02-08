@@ -7,3 +7,6 @@ god damn.. I like this thick cursor
 
 key binding remaps updated
 
+
+
+fjdkjd
